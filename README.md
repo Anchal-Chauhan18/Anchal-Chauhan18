@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I build data pipelines and visualizations that drive efficiency. My work focuses on scalable data cleaning and identifying fiscal opportunities within massive datasets.
-Recent Milestones:
-📈 Revenue: Identified $11M in potential growth via deep-dive sales analysis (10M+ records).
-⚙️ Automation: Used Python to cut reporting time by 15+ hours/month.
-🧹 Quality: Validated 500GB of data to boost accuracy by 22%.
+I build data pipelines and visualizations that drive efficiency. My work focuses on scalable data cleaning and identifying fiscal opportunities within massive datasets.  
+Recent Milestones:  
+📈 Revenue: Identified $11M in potential growth via deep-dive sales analysis (10M+ records).  
+⚙️ Automation: Used Python to cut reporting time by 15+ hours/month.  
+🧹 Quality: Validated 500GB of data to boost accuracy by 22%. 
 
 🛠️ My Toolbox
 <p align="left">
