@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Anchal 👋
+### 🚀 Data Analyst focused on User Growth & Retention.
 
 <!--
 **Anchal-Chauhan18/Anchal-Chauhan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##I build data pipelines and visualizations that drive efficiency. My work focuses on scalable data cleaning and identifying fiscal opportunities within massive datasets.
+Recent Milestones:
+**📈 Revenue: Identified $11M in potential growth via deep-dive sales analysis (10M+ records).
+**⚙️ Automation: Used Python to cut reporting time by 15+ hours/month.
+**🧹 Quality: Validated 500GB of data to boost accuracy by 22%.
+## 🛠️ My Toolbox
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+---
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Anchal-Chauhan18]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Anchal-Chauhan18]&layout=compact&theme=radical)
+
+---
+📫 How to reach me:
+* **LinkedIn:** https://www.linkedin.com/in/anchal-chauhan-4b40761b0/
