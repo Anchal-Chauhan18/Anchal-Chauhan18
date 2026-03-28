@@ -35,7 +35,7 @@ Recent Milestones:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anchal-Chauhan18&theme=radical" alt="GitHub Streak" />
 </p>
----<br/>
+
 ## 📫 How to reach me:
 * **LinkedIn:** [Anchal Chauhan](https://www.linkedin.com/in/anchal-chauhan-4b40761b0/)
 * **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
