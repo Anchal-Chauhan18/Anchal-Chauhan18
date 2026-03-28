@@ -37,4 +37,6 @@ Recent Milestones:
 </p>
 ---<br/>
 📫 How to reach me:  <br/>
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/anchal-chauhan-4b40761b0/)
+* **LinkedIn:** [Anchal Chauhan](https://www.linkedin.com/in/anchal-chauhan-4b40761b0/) 
+* **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/anchal-chauhan-4b40761b0/)
