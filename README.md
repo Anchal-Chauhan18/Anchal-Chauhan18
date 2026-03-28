@@ -21,9 +21,7 @@ Recent Milestones:
 📈 Revenue: Identified $11M in potential growth via deep-dive sales analysis (10M+ records).  
 ⚙️ Automation: Used Python to cut reporting time by 15+ hours/month.  
 🧹 Quality: Validated 500GB of data to boost accuracy by 22%. 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GIFs/Lofi_Girl.gif" width="300px">
-</p>
+
 </p>
 🛠️ My Toolbox
 <p align="left">
