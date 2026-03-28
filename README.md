@@ -33,8 +33,7 @@ Recent Milestones:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anchal-Chauhan18&show_icons=true&theme=radical" alt="Anchal's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal-Chauhan18&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anchal-Chauhan18&theme=radical" alt="GitHub Streak" />
 </p>
 ---
 📫 How to reach me:
