@@ -21,7 +21,9 @@ Recent Milestones:
 📈 Revenue: Identified $11M in potential growth via deep-dive sales analysis (10M+ records).  
 ⚙️ Automation: Used Python to cut reporting time by 15+ hours/month.  
 🧹 Quality: Validated 500GB of data to boost accuracy by 22%. 
-
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ2Znc0YTMwbzB6ZW81ZTF6Zzh6ZW8xeHh6ZW8xeHh6ZW8xeHh6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SWoRKslLZOas8q6Wgi/giphy.gif" width="200px">
+</p>
 🛠️ My Toolbox
 <p align="left">
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
