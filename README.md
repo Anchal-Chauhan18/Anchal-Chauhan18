@@ -32,9 +32,10 @@ Recent Milestones:
 
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anchal-Chauhan18&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal-Chauhan18&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anchal-Chauhan18&show_icons=true&theme=radical" alt="Anchal's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchal-Chauhan18&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>
 ---
 📫 How to reach me:
 * LinkedIn:** https://www.linkedin.com/in/anchal-chauhan-4b40761b0/
